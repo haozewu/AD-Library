@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALRUYXLU
 
+[GeneratedDocument1]
+DocumentPath=Library.cmp
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
